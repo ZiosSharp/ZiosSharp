@@ -1,0 +1,6 @@
+C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.csprojAssemblyReference.cache
+C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\bin\Debug\Practise creating classes and objects 02.exe.config
+C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\bin\Debug\Practise creating classes and objects 02.exe
+C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\bin\Debug\Practise creating classes and objects 02.pdb
+C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.exe
+C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.pdb
