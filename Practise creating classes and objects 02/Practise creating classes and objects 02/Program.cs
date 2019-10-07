@@ -1,4 +1,6 @@
-﻿using System;
+// Excercise for creating classes and methods
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
