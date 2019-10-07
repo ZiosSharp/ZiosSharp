@@ -72,11 +72,12 @@ namespace Practise_creating_classes_and_objects
     {
         static void Main(string[] args)
         {
+            // Create new instance of Wagon class
             Wagon Wagon01 = new Wagon(
                 WagonType.WagonTypeCargo,
                 WagonLevel.WagonLevelFood,
                 WagonWheelbase.WagonWheelbaseNarrow);
-            Console.WriteLine(Wagon01.WagonTypeToString(Wagon01.type));
+            Console.WriteLine("Type of Wagon is: {0}", Wagon01.WagonTypeToString(Wagon01.type));
             Console.ReadKey();
         }
     }
