@@ -4,3 +4,9 @@ C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise
 C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\bin\Debug\Practise creating classes and objects 02.pdb
 C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.exe
 C:\Users\vurdalak\source\repos\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.pdb
+D:\C#\GitHub\Practise creating classes and objects 02\Practise creating classes and objects 02\bin\Debug\Practise creating classes and objects 02.exe.config
+D:\C#\GitHub\Practise creating classes and objects 02\Practise creating classes and objects 02\bin\Debug\Practise creating classes and objects 02.exe
+D:\C#\GitHub\Practise creating classes and objects 02\Practise creating classes and objects 02\bin\Debug\Practise creating classes and objects 02.pdb
+D:\C#\GitHub\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.csprojAssemblyReference.cache
+D:\C#\GitHub\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.exe
+D:\C#\GitHub\Practise creating classes and objects 02\Practise creating classes and objects 02\obj\Debug\Practise creating classes and objects 02.pdb

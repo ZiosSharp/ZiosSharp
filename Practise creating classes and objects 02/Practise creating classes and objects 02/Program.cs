@@ -1,4 +1,4 @@
-// Excercise for creating classes and methods
+// Excercise for creating classes, objects and methods
 
 using System;
 using System.Collections.Generic;
@@ -65,7 +65,9 @@ namespace Practise_creating_classes_and_objects
                 case WagonType.WagonTypeCargo:
                     wts = "Cargo";
                     break;
-
+                default:
+                    Console.WriteLine(" Type of Wagon is not Cargo");
+                    break;
             }
             return wts;
         }
@@ -74,7 +76,7 @@ namespace Practise_creating_classes_and_objects
     {
         static void Main(string[] args)
         {
-            // Create new instance of Wagon class
+            // Create a new instance of Wagon class
             Wagon Wagon01 = new Wagon(
                 WagonType.WagonTypeCargo,
                 WagonLevel.WagonLevelFood,
