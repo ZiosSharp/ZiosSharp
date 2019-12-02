@@ -1,0 +1,9 @@
+C:\Users\Methodic\source\repos\TextEditor\TextEditorBL\bin\Debug\TextEditorBL.dll
+C:\Users\Methodic\source\repos\TextEditor\TextEditorBL\bin\Debug\TextEditorBL.pdb
+C:\Users\Methodic\source\repos\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.csprojAssemblyReference.cache
+C:\Users\Methodic\source\repos\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.dll
+C:\Users\Methodic\source\repos\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.pdb
+C:\Users\vurdalak\source\repos\TextEditor\TextEditorBL\bin\Debug\TextEditorBL.dll
+C:\Users\vurdalak\source\repos\TextEditor\TextEditorBL\bin\Debug\TextEditorBL.pdb
+C:\Users\vurdalak\source\repos\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.dll
+C:\Users\vurdalak\source\repos\TextEditor\TextEditorBL\obj\Debug\TextEditorBL.pdb
